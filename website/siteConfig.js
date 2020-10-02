@@ -68,7 +68,6 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'jenna-oratz',
-        twitter: '',
         github: 'jeoratz',
     },
 
